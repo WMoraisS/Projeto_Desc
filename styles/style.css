@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+div {
+    margin: 0 10px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(212, 212, 212);
+}
+
+div > input {
+    height: 1.7em;
+}
+
